@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useQuery } from "react-query";
 // Components
 import Item from "./Item/Item";
