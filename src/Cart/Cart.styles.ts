@@ -7,7 +7,7 @@ export const Wrapper = styled.aside`
 `;
 
 export const StyledCartList = styled.div`
-  max-height: calc(100vh - 278px);
+  max-height: calc(100vh - 448px);
   overflow: hidden;
   overflow-y: auto;
 `;

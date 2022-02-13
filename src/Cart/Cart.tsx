@@ -114,7 +114,7 @@ const Cart: React.FC<Props> = ({ cartItems, addToCart, removeFromCart }) => {
           ""
         )}
         <h2>Total: ${calculateTotal(cartItems).total.toFixed(2)}</h2>
-        <Button>Checkout</Button>
+        <Button variant="contained">Checkout</Button>
       </Grid>
     </Wrapper>
   );

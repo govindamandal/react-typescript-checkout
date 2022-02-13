@@ -7,4 +7,7 @@ export const StyledCoupon = styled.div`
     height: 28px;
     padding: 12px;
   }
+  div {
+    padding: 0;
+  }
 `;
